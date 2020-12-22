@@ -1,0 +1,5 @@
+homepage: "https://www.baldwin.agency/"
+documentation: "https://www.baldwin.agency/"
+versions:
+  - sha: 19cc3002033a15bffd8a35299f5d55a36fe27af8
+    changeNotes: Initial release.
