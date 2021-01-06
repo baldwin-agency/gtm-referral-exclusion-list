@@ -1,5 +1,5 @@
 homepage: "https://www.baldwin.agency/"
-documentation: "https://www.baldwin.agency/"
+documentation: "https://github.com/baldwin-agency/gtm-referral-exclusion-list/blob/main/README.md"
 versions:
   - sha: 265b83b733d7bd1e320bc7c5af195da5a818dae5
     changeNotes: Initial release.
