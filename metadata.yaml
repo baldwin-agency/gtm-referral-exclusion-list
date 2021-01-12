@@ -1,5 +1,5 @@
 homepage: "https://www.baldwin.agency/"
 documentation: "https://github.com/baldwin-agency/gtm-referral-exclusion-list/blob/main/README.md"
 versions:
-  - sha: f383dad0661b7790be777d9c6994fa0a4665954a
-    changeNotes: Initial release.
+  - sha: 5eba4633358e1d769bca7fe2cb2220bda3cf36da
+    changeNotes: Added more payment gateway providers to the exclusion list.
